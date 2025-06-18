@@ -17,10 +17,10 @@ saudacao("Edmar"); //Olá, Edmar!
 console.log(saudacao("Edmar")); //Olá, Edmar!*/
 
 //FUNÇÃO 3
-function adicionarItem(lista) {
+/*function adicionarItem(lista) {
     lista.push("Novo Item");
 }
 
 let item = ["Item 1", "Item 2"];
 adicionarItem(itens);
-console.log(itens); // ["Item 1", "Item 2", "Novo item"]
+console.log(itens); // ["Item 1", "Item 2", "Novo item"]/*
